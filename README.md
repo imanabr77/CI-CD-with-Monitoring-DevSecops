@@ -7,4 +7,4 @@ The tools used in this project are installed on-premises and in different ways
 To review the concepts of Docker and Linux OS.
 
 
-![Uploading image.png…]()
+![image](https://github.com/imanabr77/CI-CD-with-Monitoring-DevSecops/assets/92488673/94490580-6a41-4b39-b312-14a08c4fa114)
