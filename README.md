@@ -10,6 +10,7 @@
 > [!IMPORTANT]
 > The tools used in this project are installed on-premises and in different ways
 To review the concepts of Docker and Linux OS.
+> This sample is implemented in two ways. In this section, we are moving the project forward without using Kubernetes, and then we will deploy it on the Kubernetes cluster.
 
 
 
