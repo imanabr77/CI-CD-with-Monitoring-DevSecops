@@ -18,6 +18,26 @@ To review the concepts of Docker and Linux OS.
 
 
 > [!TIP]
-> The installation process of this system consists of 11 steps and we use a simple fork of the Netflix site to implement the deployment of a product.
+> The installation process of this system consists of 10 steps and we use a simple fork of the Netflix site to implement the deployment of a product.
+
+
+### Steps:-
+
+- [x] Step 1 — Launch an Ubuntu(22.04) 
+- [x] Step 2 — Install Jenkins, Docker and Trivy. Create a Sonarqube Container using Docker.
+- [x] Step 3 — Create a TMDB API Key.
+- [x] Step 4 — Install Prometheus and Grafana On the new Server.
+- [x] Step 5 — Install the Prometheus Plugin and Integrate it with the Prometheus server.
+- [x] Step 6 — Install Plugins like JDK, Sonarqube Scanner, Nodejs, and OWASP Dependency Check.
+- [x] Step 7 — Create a Pipeline Project in Jenkins using a Declarative Pipeline.
+- [x] Step 8 — Install OWASP Dependency Check Plugins.
+- [x] Step 9 — Docker Image Build and Push.
+- [x] Step 10 — Deploy the image using Docker.
+
+
+
+
+
+
 
 
