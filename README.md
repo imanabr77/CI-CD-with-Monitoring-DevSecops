@@ -14,7 +14,10 @@ To review the concepts of Docker and Linux OS.
 
 
 
-
-
-
 ![image](https://github.com/imanabr77/CI-CD-with-Monitoring-DevSecops/assets/92488673/94490580-6a41-4b39-b312-14a08c4fa114)
+
+
+> [!TIP]
+> The installation process of this system consists of 11 steps and we use a simple fork of the Netflix site to implement the deployment of a product.
+
+
