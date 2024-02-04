@@ -4,6 +4,8 @@ CI/CD implementation project with the approach of reviewing Devsecops processes 
 > [!NOTE]
 > This project has been designed and prepared to practice and implement the said processes.
 
+
+
 > [!IMPORTANT]
 > The tools used in this project are installed on-premises and in different ways
 To review the concepts of Docker and Linux OS.
